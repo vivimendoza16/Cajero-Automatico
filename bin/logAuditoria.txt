@@ -1,0 +1,4 @@
+Fecha de operación:2019-03-24T23:32:42.528 Operación: Listar Cuentas
+Fecha de operación:2019-03-24T23:32:44.015 Operación: Listar Cuentas
+Fecha de operación:2019-03-24T23:32:44.927 Operación: Consignar dinero
+Fecha de operación:2019-03-24T23:32:50.436 Operación: Retirar dinero
